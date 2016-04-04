@@ -1,0 +1,2 @@
+# frlib
+Fast Reading Library
