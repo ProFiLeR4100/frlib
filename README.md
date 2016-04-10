@@ -10,7 +10,7 @@ This is a multi-platform project in addition to the functionality you will have 
 Current version is 0.0.1a
 
 ### Changelog
-  - 0.0.1a
+  - **0.0.1 - Android** - added Android support.
 
 ### Analogs
 
